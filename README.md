@@ -1,6 +1,8 @@
 # Alphabetical-Reference
 Alphabetical Reference Class For python3.10. 
 
+
+# Purpose
 Turns any list of Dictionaries into a alphabetically sorted Dictionary of Dictionaries
 
 
